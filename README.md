@@ -71,14 +71,6 @@ I enjoy transforming raw data into meaningful insights and building practical ma
 
 ---
 
-## 📊 GitHub Stats
-
-![Manya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manya2170&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manya2170&layout=compact&theme=github_dark)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [Manya Shukla](https://www.linkedin.com/in/manya-shukla-737a2a251/)
